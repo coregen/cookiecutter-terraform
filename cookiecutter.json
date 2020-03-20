@@ -1,0 +1,11 @@
+{
+  "full_name": "My full name",
+  "company_name": "My company name",
+  "email": "my@email.com",
+  "github_username": "My github username",
+  "terraform_provider": "aws",
+  "project_slug": "my-project-name",
+  "registry_username": "terraform-registry-username",
+  "short_description": "My terraform module description",
+  "version": "0.1.0"
+}
