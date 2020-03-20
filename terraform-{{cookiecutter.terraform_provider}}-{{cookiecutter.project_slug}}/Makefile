@@ -9,6 +9,7 @@ lint: ## check style with flake8
 
 ## run tests quickly with the default Python
 test: lint
+	terraform init
 	terraform plan
 
 bump-patch:
